@@ -1,2 +1,5 @@
 # Genesis-Video
-Assets for an artistic interpretaion of the Genesis 1 and 2 account of creation in video format, based on investigations by Hugh Ross, Fazale Rana, and others taking a similar perspective. 
+This repository is for assets for an explainer video that explains how the Genesis 1 explanations match the findings of science, especially the scientific findings from the last century or so. This is based on writings by Hugh Ross, Fazale Rana, and others taking an Old Earth Creationist perspective. 
+
+The explainer video will have animated video sequences for each of the 6 days/time periods of creation. Each animated video will graphically display what is believed to have been happening on the earth as described by science for the time period that is described in the Bible. In other words, we know that the one page summary in Genesis 1 that describes the changes over the 4.5 billion years of earth's history cannot go into great detail about each change. So, the animated videos for each day/time period will focus primarily on the events that Genesis 1 describes using what we know from science about those time periods. And the overall explainer video will describe how the sequence of these events as described in Genesis 1 also happened in the same sequence as described so far by science. 
+
