@@ -1,0 +1,280 @@
+{
+  "version": "3.0.0",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 12,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "AF8IA",
+      "url": "board-1-AF8IA.png",
+      "newShot": false,
+      "lastEdited": 1654544957976,
+      "layers": {
+        "reference": {
+          "url": "board-1-AF8IA-reference.png",
+          "opacity": 0.75
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "lineMileage": 5267.965099362931,
+      "duration": "5000"
+    },
+    {
+      "uid": "D5S3T",
+      "url": "board-2-D5S3T.png",
+      "newShot": false,
+      "lastEdited": 1654637204842,
+      "layers": {
+        "reference": {
+          "url": "board-2-D5S3T-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 2,
+      "shot": "2A",
+      "time": 5000,
+      "duration": "5000"
+    },
+    {
+      "uid": "BOITM",
+      "url": "board-2-BOITM.png",
+      "newShot": false,
+      "lastEdited": 1654637136310,
+      "layers": {
+        "reference": {
+          "url": "board-2-BOITM-reference.png",
+          "opacity": 1
+        },
+        "ink": {
+          "url": "board-2-BOITM-ink.png"
+        }
+      },
+      "number": 3,
+      "shot": "3A",
+      "time": 10000,
+      "lineMileage": 0,
+      "duration": "5000"
+    },
+    {
+      "uid": "M7I74",
+      "url": "board-2-M7I74.png",
+      "newShot": false,
+      "lastEdited": 1654636740828,
+      "layers": {
+        "reference": {
+          "url": "board-2-M7I74-reference.png",
+          "opacity": 1
+        },
+        "shot-generator": {
+          "url": "board-2-M7I74-shot-generator.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-2-M7I74-fill.png"
+        },
+        "tone": {
+          "url": "board-2-M7I74-tone.png"
+        },
+        "pencil": {
+          "url": "board-2-M7I74-pencil.png"
+        },
+        "ink": {
+          "url": "board-2-M7I74-ink.png"
+        },
+        "notes": {
+          "url": "board-2-M7I74-notes.png"
+        }
+      },
+      "number": 4,
+      "shot": "4A",
+      "time": 15000,
+      "lineMileage": 23742.735935999,
+      "dialogue": "Let's see how Genesis describes what happened during creation of the heavens and the earth",
+      "duration": "5000"
+    },
+    {
+      "uid": "PI6MP",
+      "url": "board-2-PI6MP.png",
+      "newShot": false,
+      "lastEdited": 1654545344118,
+      "layers": {
+        "reference": {
+          "url": "board-2-PI6MP-reference.png",
+          "opacity": 1
+        },
+        "shot-generator": {
+          "url": "board-2-PI6MP-shot-generator.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-2-PI6MP-fill.png"
+        },
+        "tone": {
+          "url": "board-2-PI6MP-tone.png"
+        },
+        "pencil": {
+          "url": "board-2-PI6MP-pencil.png"
+        },
+        "ink": {
+          "url": "board-2-PI6MP-ink.png"
+        },
+        "notes": {
+          "url": "board-2-PI6MP-notes.png"
+        }
+      },
+      "number": 5,
+      "shot": "5A",
+      "time": 20000,
+      "notes": "Gen 1:1 - In the beginning God created the heavens and the earth.",
+      "lineMileage": 2950.112759280428,
+      "dialogue": "Gen 1:1 - In the beginning God created the heavens and the earth.",
+      "action": "",
+      "duration": "5000"
+    },
+    {
+      "uid": "ZT5S6",
+      "url": "board-2-ZT5S6.png",
+      "newShot": false,
+      "lastEdited": 1654545058021,
+      "layers": {
+        "reference": {
+          "url": "board-2-ZT5S6-reference.png",
+          "opacity": 1
+        },
+        "ink": {
+          "url": "board-2-ZT5S6-ink.png"
+        }
+      },
+      "number": 6,
+      "shot": "6A",
+      "time": 25000,
+      "lineMileage": 547.2657122326599,
+      "dialogue": "Before Day 1 - the earth was a shapeless, chaotic mass, with the Spirit of God brooding over the dark vapors",
+      "duration": "6000"
+    },
+    {
+      "uid": "4OS99",
+      "url": "board-4-4OS99.png",
+      "newShot": false,
+      "lastEdited": 1654545177788,
+      "layers": {
+        "reference": {
+          "url": "board-4-4OS99-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 7,
+      "shot": "7A",
+      "time": 31000,
+      "dialogue": "Day 1 - Then God said, “Let there be light.” And light appeared.",
+      "duration": "5000"
+    },
+    {
+      "uid": "3NTYV",
+      "url": "board-4-3NTYV.png",
+      "newShot": false,
+      "lastEdited": 1654545256105,
+      "layers": {
+        "reference": {
+          "url": "board-4-3NTYV-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 8,
+      "shot": "8A",
+      "time": 36000,
+      "dialogue": "Day 2 - So God made the sky, dividing the vapor above from the water below",
+      "duration": "5000"
+    },
+    {
+      "uid": "BP9FJ",
+      "url": "board-12-BP9FJ.png",
+      "newShot": false,
+      "lastEdited": 1655579120990,
+      "layers": {
+        "reference": {
+          "url": "board-12-BP9FJ-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 9,
+      "shot": "9A",
+      "time": 41000,
+      "dialogue": "Day 3 - Let the water beneath the sky be gathered into oceans so that the dry land will emerge.” And so it was.",
+      "duration": "6000"
+    },
+    {
+      "uid": "91XJ7",
+      "url": "board-6-91XJ7.png",
+      "newShot": false,
+      "lastEdited": 1654545305960,
+      "layers": {
+        "reference": {
+          "url": "board-6-91XJ7-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 10,
+      "shot": "10A",
+      "time": 47000,
+      "dialogue": "Day 4 - Let bright lights appear in the sky to give light to the earth and to identify the day and the night; they shall bring about the seasons on the earth, and mark the days and years.",
+      "duration": "8000"
+    },
+    {
+      "uid": "6OIHA",
+      "url": "board-6-6OIHA.png",
+      "newShot": false,
+      "lastEdited": 1654545321298,
+      "layers": {
+        "reference": {
+          "url": "board-6-6OIHA-reference.png",
+          "opacity": 1
+        }
+      },
+      "number": 11,
+      "shot": "11A",
+      "time": 55000,
+      "dialogue": "Day 5 - Let the waters teem with fish and other life, and let the skies be filled with birds of every kind",
+      "duration": "5000"
+    },
+    {
+      "uid": "QRSFV",
+      "url": "board-11-QRSFV.png",
+      "newShot": false,
+      "lastEdited": 1655579045381,
+      "layers": {
+        "reference": {
+          "url": "board-11-QRSFV-reference.png",
+          "opacity": 0.75
+        },
+        "shot-generator": {
+          "url": "board-11-QRSFV-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-11-QRSFV-fill.png"
+        },
+        "tone": {
+          "url": "board-11-QRSFV-tone.png"
+        },
+        "pencil": {
+          "url": "board-11-QRSFV-pencil.png"
+        },
+        "ink": {
+          "url": "board-11-QRSFV-ink.png"
+        },
+        "notes": {
+          "url": "board-11-QRSFV-notes.png"
+        }
+      },
+      "number": 12,
+      "shot": "12A",
+      "time": 60000,
+      "lineMileage": 1015.8201684767206,
+      "dialogue": "Day 6 - Let the earth bring forth every kind of animal—cattle and reptiles and wildlife of every kind...Then God said, “Let us make a man",
+      "duration": "6000"
+    }
+  ]
+}
